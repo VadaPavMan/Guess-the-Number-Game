@@ -25,7 +25,7 @@ Git (for cloning the repository)
 # Installation
 1. Clone the repository:
 ```
-<span style="color:red">git clone</span> https://github.com/vadapav071/Guess-the-Number-Game.git
+git clone https://github.com/vadapav071/Guess-the-Number-Game.git
 ```
 2. Navigate to the project directory:
 ```
