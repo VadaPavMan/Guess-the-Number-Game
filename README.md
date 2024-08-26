@@ -1,4 +1,4 @@
-# Guess-the-Number-Game
+# 🕹️ Guess-the-Number-Game
 
 # About the Project
 This is a simple command-line game implemented in C where the player tries to guess a randomly generated number between 1 and 100. The game gives hints like "Higher number please" or "Lower number please" based on the player's guesses until the correct number is found.
