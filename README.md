@@ -25,11 +25,11 @@ Git (for cloning the repository)
 # Installation
 1. Clone the repository:
 ```
-`git clone https://github.com/vadapav071/Guess-the-Number-Game.git`
+<span style="color:red">git clone</span> https://github.com/vadapav071/Guess-the-Number-Game.git
 ```
 2. Navigate to the project directory:
 ```
-`cd Guess-the-Number-Game`
+cd Guess-the-Number-Game
 ```
 3. Compile the C program:
 ```
